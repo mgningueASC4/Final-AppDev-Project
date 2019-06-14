@@ -1,0 +1,21 @@
+{
+  "Courses": {
+    "AP Calculus BC": [{
+        "Honors Algebra 2/Trig": 95,
+      },
+      "Precalculus": {
+        "Algebra 2/Trig Regents": 92
+      },
+      "Honors Precalculus": {
+        "Algebra 2/Trig Regents": 92
+      }
+    ],
+    "Honors Precalculus": {
+      "Honors Algebra 2": 85,
+      "Algebra 2": 95
+    }
+  }
+}
+
+
+//https://bxscience.edu/apps/pages/index.jsp?uREC_ID=3719&type=d&termREC_ID=&pREC_ID=618280

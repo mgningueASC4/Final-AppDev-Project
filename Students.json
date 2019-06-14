@@ -1,0 +1,283 @@
+{
+    "Students": [
+        {
+            "official": "A11",
+            "OSIS": "239002407",
+            "LAST": "Abasnas",
+            "FIRST": "Matthew",
+            "Geometry": "98",
+            "Coding_for_All": "100",
+            "Password": "AbasnasM"
+        },
+        {
+            "official": "B02",
+            "OSIS": "315951245",
+            "LAST": " Larzeto",
+            "FIRST": "Camille",
+            "Geometry": "23",
+            "Coding_for_All": "99",
+            "Algebra I": "78"
+        },
+        {
+            "official": "C11",
+            "OSIS": "408824664",
+            "LAST": "Haque",
+            "FIRST": "Alysa",
+            "Geometry": "85",
+            "Coding_for_All": "89",
+            "Algebra I": "89",
+            "Algebra 2": "85",
+            "PreCalculus": "98"
+        },
+        {
+            "official": "A12",
+            "OSIS": "708759118",
+            "LAST": "Grimm",
+            "FIRST": "Alyson",
+            "Geometry": "56",
+            "Coding_for_All": "98"
+        },
+        {
+            "official": "A09",
+            "OSIS": "908101311",
+            "LAST": "Choyon",
+            "FIRST": "Alice",
+            "Geometry": "89",
+            "Coding_for_All": "89",
+            "Algebra I": "98"
+        },
+        {
+            "official": "B02",
+            "OSIS": "123073070",
+            "LAST": "Kim",
+            "FIRST": "Feizza",
+            "Geometry": "87",
+            "Coding_for_All": "99",
+            "Algebra I": "91"
+        },
+        {
+            "official": "B04",
+            "OSIS": "456746977",
+            "LAST": "Liang",
+            "FIRST": "Daniel",
+            "Geometry": "78",
+            "Coding_for_All": "89",
+            "Algebra I": "99"
+        },
+        {
+            "official": "A01",
+            "OSIS": "217245800",
+            "LAST": "Haque",
+            "FIRST": "Tanim",
+            "Geometry": "81",
+            "Coding_for_All": "98"
+        },
+        {
+            "official": "B02",
+            "OSIS": "220911462",
+            "LAST": "Hossain",
+            "FIRST": "Brandon",
+            "Geometry": "82",
+            "Coding_for_All": "78",
+            "Algebra I": "85"
+        },
+        {
+            "official": "C11",
+            "OSIS": "209378971",
+            "LAST": "Islam",
+            "FIRST": "Fardeen",
+            "Geometry": "89",
+            "Coding_for_All": "99",
+            "Algebra I": "82",
+            "Algebra 2": "81",
+            "PreCalculus": "84"
+        },
+        {
+            "official": "A12",
+            "OSIS": "214991770",
+            "LAST": "Islam",
+            "FIRST": "Mohammed",
+            "Geometry": "98",
+            "Coding_for_All": "89"
+        },
+        {
+            "official": "A09",
+            "OSIS": "207131400",
+            "LAST": "Krayon",
+            "FIRST": "Adam",
+            "Geometry": "97",
+            "Coding_for_All": "98"
+        },
+        {
+            "official": "B02",
+            "OSIS": "208923581",
+            "LAST": "Andrew",
+            "FIRST": "Gregg",
+            "Geometry": "96",
+            "Coding_for_All": "94",
+            "Algebra I": "99",
+            "Algebra 2": "98"
+        },
+        {
+            "official": "B04",
+            "OSIS": "214399067",
+            "LAST": "Chase",
+            "FIRST": "Fox",
+            "Geometry": "56",
+            "Coding_for_All": "89",
+            "Algebra I": "85"
+        },
+        {
+            "official": "A01",
+            "OSIS": "208818880",
+            "LAST": "Diaz",
+            "FIRST": "Megan",
+            "Geometry": "68",
+            "Coding_for_All": "56"
+        },
+        {
+            "official": "B02",
+            "OSIS": "217777928",
+            "LAST": "Chen",
+            "FIRST": "Aidan",
+            "Geometry": "69",
+            "Coding_for_All": "78",
+            "Algebra I": "89"
+        },
+        {
+            "official": "C11",
+            "OSIS": "208555577",
+            "LAST": "Liu",
+            "FIRST": "Arthur",
+            "Geometry": "87",
+            "Coding_for_All": "99",
+            "Algebra I": "97",
+            "Algebra 2": "92",
+            "PreCalculus": "93"
+        },
+        {
+            "official": "A12",
+            "OSIS": "208777841",
+            "LAST": "Lin",
+            "FIRST": "Katherine",
+            "Geometry": "85",
+            "Coding_for_All": "100"
+        },
+        {
+            "official": "A09",
+            "OSIS": "245078825",
+            "LAST": "Massott",
+            "FIRST": "Ethan",
+            "Geometry": "82",
+            "Coding_for_All": "98",
+            "Algebra I": "85"
+        },
+        {
+            "official": "B02",
+            "OSIS": "238973458",
+            "LAST": "Greene",
+            "FIRST": "Tee",
+            "Geometry": "97",
+            "Coding_for_All": "94",
+            "Algebra I": "98",
+            "Algebra 2": "85"
+        },
+        {
+            "official": "B04",
+            "OSIS": "208904725",
+            "LAST": "Yang",
+            "FIRST": "Brandon",
+            "Geometry": "96",
+            "Coding_for_All": "92",
+            "Algebra I": "82"
+        },
+        {
+            "official": "A01",
+            "OSIS": "321016534",
+            "LAST": "Ngai",
+            "FIRST": "Alexander",
+            "Geometry": "95",
+            "Coding_for_All": "98"
+        },
+        {
+            "official": "B02",
+            "OSIS": "345849314",
+            "LAST": "Ngo",
+            "FIRST": "Vivian",
+            "Geometry": "95",
+            "Coding_for_All": "97",
+            "Algebra I": "81"
+        },
+        {
+            "official": "C11",
+            "OSIS": "209787623",
+            "LAST": "Violet",
+            "FIRST": "Amanda",
+            "Geometry": "92",
+            "Coding_for_All": "99",
+            "Algebra I": "89",
+            "Algebra 2": "95",
+            "PreCalculus": "82"
+        },
+        {
+            "official": "A12",
+            "OSIS": "209399700",
+            "LAST": "Salem",
+            "FIRST": "Grace",
+            "Geometry": "82",
+            "Coding_for_All": "92"
+        },
+        {
+            "official": "A09",
+            "OSIS": "214234849",
+            "LAST": "Shakram",
+            "FIRST": "Nazim",
+            "Geometry": "26",
+            "Coding_for_All": "85"
+        },
+        {
+            "official": "B02",
+            "OSIS": "239078929",
+            "LAST": "Saha",
+            "FIRST": "Sharen",
+            "Geometry": "89",
+            "Coding_for_All": "82",
+            "Algebra I": "84"
+        },
+        {
+            "official": "B04",
+            "OSIS": "333028844",
+            "LAST": "Suri",
+            "FIRST": "Harushi",
+            "Geometry": "97",
+            "Coding_for_All": "81",
+            "Algebra I": "86"
+        },
+        {
+            "official": "A01",
+            "OSIS": "888873951",
+            "LAST": "Roman",
+            "FIRST": "Cohen",
+            "Geometry": "89",
+            "Coding_for_All": "90"
+        }
+    ],
+}
+{
+    "Courses": {
+        "AP Calculus BC": [{
+                "Honors Algebra 2/Trig": 95
+            },
+            "Precalculus": {
+                "Algebra 2/Trig Regents": 92
+            },
+            "Honors Precalculus": {
+                "Algebra 2/Trig Regents": 92
+            }
+        ],
+        "Honors Precalculus": {
+            "Honors Algebra 2": 85,
+            "Algebra 2": 95
+        }
+    }
+}
